@@ -2,19 +2,17 @@
 
 ## Objectives
 
-1. Learn to deploy a functional dbt platform from scratch with virtual environment
+1. Create an end-to-end project with Moderd Data Stack
 2. Setup reliable transformation data pipelines running on schedule
 3. Pack pre-built system in docker container to make it work
 
-[This tutorial](https://quickstarts.snowflake.com/guide/data_teams_with_dbt_core/index.html#0) will be used as a pattern to follow yet deploy our own database.
+## Tools used
 
-## Key Terms
+**[DBT Core](https://docs.getdbt.com/docs/introduction)** is a command-line tool that enables data analysts and engineers to transform data in their warehouse more effectively. It allows users to write modular SQL queries, which it then runs on their warehouse in the correct order with the ability to test and document the data.
 
-**DBT** is a command-line tool that enables data analysts and engineers to transform data in their warehouse more effectively. It allows users to write modular SQL queries, which it then runs on their warehouse in the correct order with the ability to test and document the data.
+**[Snowflake](https://www.snowflake.com/en/)** is a cloud-based data warehousing platform that allows businesses to store and analyze large amounts of data. Its unique architecture separates storage and computing, enabling scalable and cost-effective data processing.
 
-**Snowflake** is a cloud-based data warehousing platform that allows businesses to store and analyze large amounts of data. Its unique architecture separates storage and computing, enabling scalable and cost-effective data processing.
-
-**Docker** is a platform that uses containerization technology to enable developers to package applications and their dependencies into a standardized unit for software development. Containers are isolated environments that can run across different computing environments consistently.
+**[Hex](https://hex.tech/)** is a platform that uses containerization technology to enable developers to package applications and their dependencies into a standardized unit for software development. Containers are isolated environments that can run across different computing environments consistently.
 
 **Github** is a web-based platform for version control and collaboration. It allows developers to store, manage, and track changes to their code using the Git system. GitHub also offers features like code review, project management, and team collaboration.
 

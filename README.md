@@ -3,8 +3,11 @@
 ## Objectives
 
 1. Create an end-to-end project utilizing Modern Data Stack
-2. Learn new tools
-3. Pack pre-built system in docker container to make it work
+2. Learn modern tools
+
+## Analysis goal
+
+Your primary goal is to construct dbt™ models that unearth compelling insights, captivating NBA fans and/or General Managers. With seven distinct datasets at your disposal, the possibilities for discovery are virtually limitless. This is your playground to innovate and explore the depths of NBA data.
 
 ## Recommended tools
 
@@ -31,7 +34,7 @@
 ## Implementation
 
 1. Setup git repo
-3. Install dbt
+3. Install dbt core
 4. Initiate integration between dbt & snowflake
 5. Load data to snowflake
 

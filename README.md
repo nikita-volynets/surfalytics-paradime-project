@@ -2,19 +2,21 @@
 
 ## Objectives
 
-1. Create an end-to-end project with Moderd Data Stack
-2. Setup reliable transformation data pipelines running on schedule
+1. Create an end-to-end project utilizing Modern Data Stack
+2. Learn new tools
 3. Pack pre-built system in docker container to make it work
 
-## Tools used
+## Recommended tools
 
-**[DBT Core](https://docs.getdbt.com/docs/introduction)** is a command-line tool that enables data analysts and engineers to transform data in their warehouse more effectively. It allows users to write modular SQL queries, which it then runs on their warehouse in the correct order with the ability to test and document the data.
+**[Github](https://github.com/)** for dbt project version control and creating description of this project;
 
-**[Snowflake](https://www.snowflake.com/en/)** is a cloud-based data warehousing platform that allows businesses to store and analyze large amounts of data. Its unique architecture separates storage and computing, enabling scalable and cost-effective data processing.
+**[Snowflake](https://www.snowflake.com/en/)** as datawarehouse to store and compute data. Possible to use: any other cloud data warehouses by Databricks, Azure, AWS or GCP.
 
-**[Hex](https://hex.tech/)** is a platform that uses containerization technology to enable developers to package applications and their dependencies into a standardized unit for software development. Containers are isolated environments that can run across different computing environments consistently.
+**[DBT Core](https://docs.getdbt.com/docs/introduction)** for data transformations, documentation and testing; 
 
-**Github** is a web-based platform for version control and collaboration. It allows developers to store, manage, and track changes to their code using the Git system. GitHub also offers features like code review, project management, and team collaboration.
+**[Hex](https://hex.tech/)** for data analysis and visualizations. Possible to use: [Mode](https://mode.com/) or [Deeplearn](https://deepnote.com/).
+
+**[Metabase](https://www.metabase.com/)** as a BI tool for dashboards. Possible to use: any other BI Tool.
 
 ## Prerequisites
 

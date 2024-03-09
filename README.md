@@ -1,4 +1,4 @@
-# Deploy Analytics Engineering pipelines with DBT Core, Snowflake and Docker
+# Modern Data Statck Project: Snowflake + DBT + Hex + Sigma/Metabase
 
 ## Objectives
 

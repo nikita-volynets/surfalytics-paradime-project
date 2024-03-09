@@ -10,7 +10,7 @@
 
 **[Github](https://github.com/)** for dbt project version control and creating description of this project;
 
-**[Snowflake](https://www.snowflake.com/en/)** as datawarehouse to store and compute data. Possible to use: any other cloud data warehouses by Azure, AWS or GCP.
+**[Snowflake](https://www.snowflake.com/en/)** as datawarehouse to store and compute data. Possible to use: any other cloud data warehouses;
 
 **[DBT Core](https://docs.getdbt.com/docs/introduction)** for data transformations, documentation and testing; 
 

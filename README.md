@@ -41,10 +41,8 @@
 - [Snowflake Trial](link)
 - [Snowflake dbt Core tutorial](https://quickstarts.snowflake.com/guide/data_teams_with_dbt_core/index.html#0)
 
-## Additional materials:
-- [Recommended udemy course on docker](https://www.udemy.com/course/docker-ru/)
-- [DBT Macros](https://courses.getdbt.com/courses/jinja-macros-packages)
-- [DBT Best Practice](https://docs.getdbt.com/guides/legacy/best-practices)
+## Solution example:
+- https://github.com/nikita-volynets/nba-challenge-dbt-paradime
 
 All discussions and weekly meetings will be in the Discord channel - **data-engineering-projects**.
 

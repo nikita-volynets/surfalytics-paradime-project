@@ -1,4 +1,4 @@
-# Modern Data Statck Project: Snowflake + DBT + Hex + Sigma
+# Modern Data Stack Project: Snowflake + DBT + Hex + Sigma
 
 ## Objectives
 
